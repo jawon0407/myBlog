@@ -1,0 +1,17 @@
+[
+    {
+        "title" : "게임",
+        "image" : "game.jpg",
+        "path" : "game"
+    },
+    {
+        "title" : "애니",
+        "image" : "ani.jpg",
+        "path" : "ani"
+    },
+    {
+        "title" : "배드민턴",
+        "image" : "badminton.jpg",
+        "path" : "badminton"
+    }
+]
