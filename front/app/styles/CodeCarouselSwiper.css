@@ -1,0 +1,32 @@
+.swiper-slide{
+    border:1px solid #999;
+}
+
+.code_carousel_post div:last-child{
+    border-top:1px solid #999;
+}
+
+.swiper-button-prev, .swiper-button-next{
+    top:var(--swiper-navigation-top-offset, 40%);
+    color: #fff;
+    width:40px;
+    height:40px;
+    background-color: #333;
+    border-radius:50%;
+    transition: all 0.15s;
+}
+
+.swiper-button-prev:hover, .swiper-button-next:hover{
+    transform:scale(1.2);
+}
+
+.swiper-button-prev::after, .swiper-button-next::after{
+    font-size:15px;
+    transition:font-size 0.15s ease-in-out;
+}
+
+.swiper-button-prev:hover::after, 
+.swiper-button-next:hover::after{
+    font-size:20px;
+    color: var(--swiper-navigation-color, var(--swiper-theme-color));
+}

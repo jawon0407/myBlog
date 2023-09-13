@@ -1,0 +1,22 @@
+[
+    {
+        "title" : "게임",
+        "image" : "hobby/game.jpg",
+        "path" : "game"
+    },
+    {
+        "title" : "애니",
+        "image" : "hobby/ani.jpg",
+        "path" : "ani"
+    },
+    {
+        "title" : "배드민턴",
+        "image" : "hobby/badminton.jpg",
+        "path" : "badminton"
+    },
+    {
+        "title" : "패션",
+        "image" : "hobby/fashion2.jpg",
+        "path" : "fashion"
+    }
+]
